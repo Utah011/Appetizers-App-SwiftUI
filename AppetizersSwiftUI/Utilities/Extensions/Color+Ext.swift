@@ -2,7 +2,7 @@
 //  Color+Ext.swift
 //  AppetizersSwiftUI
 //
-//  Created by Andrew Kolbasov on 18.10.2021.
+//  Created by Utah011 on 18.10.2021.
 //
 
 import SwiftUI

@@ -2,7 +2,7 @@
 //  AppetizerListView.swift
 //  AppetizersSwiftUI
 //
-//  Created by Andrew Kolbasov on 16.10.2021.
+//  Created by Utah011 on 16.10.2021.
 //
 
 import SwiftUI
